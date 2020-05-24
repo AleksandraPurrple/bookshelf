@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pitae\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pitae\\.nuget\\packages"
+    ]
+  }
+}
